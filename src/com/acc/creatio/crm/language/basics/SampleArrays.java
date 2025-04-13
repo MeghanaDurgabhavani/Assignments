@@ -3,6 +3,7 @@ package com.acc.creatio.crm.language.basics;
 public class SampleArrays {
 
 	public static void main(String[] args) {
+		/** Create an array of 10 numbers (any 10 numbers) and print out the Average of 5th and 6th value**/
 		int[] numbers = new int[11];
 		numbers[00] = 1;
 		numbers[01] = 5;
