@@ -13,8 +13,10 @@ public class SampleArrays {
 		numbers[05] = 4;
 		numbers[06] = 7;
 		numbers[07] = 9;
-		numbers[08] = 3;//Hi @Bharath shall i know why this below 2lines are coming as error.
-		numbers[09] = 10;
+		numbers[8] = 3;//Hi @Bharath shall i know why this below 2lines are coming as error.
+		numbers[9] = 10;
+		// average of two numbers index[03] and index[05] = 
+		System.out.println(numbers[07]+ " " +numbers[10]);
 	}
 
 }
