@@ -5,7 +5,7 @@ public class Assignement_Operators {
 	public static void main(String[] args) {
 	
 		
-		String[] StudenetNames = {"Suresh","Mahesh","Naresh"};
+		//String[] StudentNames = {"Suresh","Mahesh","Naresh"};
 		int[] Marks = {75, 80, 82};
 		
 		Marks[0]+=10;

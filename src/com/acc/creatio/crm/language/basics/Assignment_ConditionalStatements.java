@@ -4,7 +4,7 @@ public class Assignment_ConditionalStatements {
 
 	public static void main(String[] args) {
 		
-		String CustName = "John Doe";
+		//String CustName = "John Doe";
 		int CredScore = 720;
 		float income = 55000.0f;
 		int debtToIncomeRatio = 35;
